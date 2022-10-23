@@ -100,3 +100,19 @@ ul{
     text-decoration: none;
     font-size: 54px;
 }
+.Ingredients{
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Instructions{
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-weight: bold;
+    font-size: 24px;
+}
